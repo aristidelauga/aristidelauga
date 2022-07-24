@@ -1,6 +1,6 @@
 ### Hello there 👋🏽!
 
-I started my journey in iOS development as a self-taught student. After graduating from the Apple Developer Academy, the only international academy made by Apple to introduce individuals to this industry, I am looking for a junior position as an iOS Developer, in Europe 🇪🇺 or Canada 🇨🇦, so I can accomplish my dream.
+I started my journey in iOS development as a self-taught student. After graduating from the Apple Developer Academy, the only international academy made by Apple to introduce individuals to this industry, I am looking for a junior position as an iOS Developer, in **Europe** 🇪🇺 or **Canada** 🇨🇦, so I can accomplish my dream.
 
 ### A bit more about me 👨🏽‍💻
 I am a tech, fashion and programming enthusiast. I really enjoy developing solutions for the Apple ecosystem. I am currently improving my skills as a frontend but also learning about unit testing in the same time. My objective is to become proficient in both *front* and *back* end. I have published an appilcation on the App Store, [***Only*Feat**](https://apps.apple.com/fr/app/onlyfeat/id1626507841?l=en), and I am working on my second app, **POTD**, an app that helps you building the best outfits according to the palettes of colors available in your very closet.
