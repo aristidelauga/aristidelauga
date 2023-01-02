@@ -8,7 +8,6 @@ I am a tech, fashion and programming enthusiast. I really enjoy developing solut
 Here are the different ways to reach me, feel free to contact me for a job opportunity:
 
 <a href="https://www.linkedin.com/in/aristidelauga/"><img src="https://img.shields.io/badge/-LinkedIn-blue.svg"/></a>
-<a href="https://aristidelauga.odoo.com"><img src="https://img.shields.io/badge/-My%20Website-blueviolet.svg"/></a>
 <a href="mailto:aristide.lauga@gmail.com"><img src="https://img.shields.io/badge/-My%20email-red.svg"/></a>
 
 
