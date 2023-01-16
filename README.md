@@ -3,7 +3,7 @@
 I started my journey in iOS development as a self-taught student. After graduating from the Apple Developer Academy, the only international academy made by Apple to introduce individuals to this industry, I worked as a QA Automation Engineer, in **Madrid** 🇪🇸. I am currently looking for an **iOS Developer** position in **Europe** 🇪🇺!
 
 ### A bit more about me 👨🏽‍💻
-I am a tech, fashion and programming enthusiast. I really enjoy developing solutions for the Apple ecosystem. I am currently improving my skills as a frontend but also learning about backend in the same time. My objective is to become proficient in both of these aspects of software engineering. I have published an application on the App Store, [***Only*Feat**](https://apps.apple.com/fr/app/onlyfeat/id1626507841?l=en), and I am working on my second app, **POTD**, an app that helps you build the best outfits according to the palettes of colors available in your very closet.
+I am a tech, fashion and programming enthusiast. I really enjoy developing solutions for the Apple ecosystem. I have published an application on the App Store, [***Only*Feat**](https://apps.apple.com/fr/app/onlyfeat/id1626507841?l=en), and I am working on my second app, **POTD**, an app that helps you build the best outfits according to the palettes of colors available in your very closet.
 
 Here are the different ways to reach me, feel free to contact me for a job opportunity:
 
